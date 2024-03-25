@@ -1,0 +1,17 @@
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\bin\Debug\net6.0\FisTaramaSistemi.exe
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\bin\Debug\net6.0\FisTaramaSistemi.deps.json
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\bin\Debug\net6.0\FisTaramaSistemi.runtimeconfig.json
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\bin\Debug\net6.0\FisTaramaSistemi.dll
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\bin\Debug\net6.0\FisTaramaSistemi.pdb
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\obj\Debug\net6.0\FisTaramaSistemi.csproj.AssemblyReference.cache
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\obj\Debug\net6.0\FisTaramaSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\obj\Debug\net6.0\FisTaramaSistemi.AssemblyInfoInputs.cache
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\obj\Debug\net6.0\FisTaramaSistemi.AssemblyInfo.cs
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\obj\Debug\net6.0\FisTaramaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\obj\Debug\net6.0\FisTaramaSistemi.csproj.CopyComplete
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\obj\Debug\net6.0\FisTaramaSistemi.dll
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\obj\Debug\net6.0\refint\FisTaramaSistemi.dll
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\obj\Debug\net6.0\FisTaramaSistemi.pdb
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\obj\Debug\net6.0\FisTaramaSistemi.genruntimeconfig.cache
+C:\Users\fatma\source\repos\KAIZEN\FisTaramaSistemi\obj\Debug\net6.0\ref\FisTaramaSistemi.dll
